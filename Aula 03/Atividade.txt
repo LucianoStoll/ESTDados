@@ -1,0 +1,18 @@
+Pesquise na bibliografia de referência para responder às seguintes questões.
+
+Questão 1: Notação Assintótica e Escala de Crescimento
+
+Ordene as seguintes complexidades de tempo da mais rápida (mais eficiente) para a mais lenta (menos eficiente) à medida que o tamanho da entrada (N) cresce para um valor muito grande:
+O(N2)|O(1)|O(N)|O(logN)
+ 
+Questão 2: Análise de Operações em Vetores e Listas
+
+Com base no comportamento das estruturas de dados sequenciais (vetores/arrays), determine a complexidade no pior caso (em notação Big-O) para cada uma das operações abaixo em uma lista com N elementos:
+
+    a) Acessar diretamente um elemento conhecendo o seu índice (ex: valor = lista[4]).
+
+    b) Buscar um valor específico percorrendo a lista elemento por elemento (Busca Linear).
+
+    c) Inserir um novo elemento no início da lista (índice 0), exigindo o deslocamento de todos os outros elementos.
+
+    d) Inserir um novo elemento no final da lista quando ainda há espaço disponível (sem necessidade de deslocamento).

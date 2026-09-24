@@ -1,3 +1,15 @@
+# Implementação de uma Lista Sequencial Estática em Python sem utilizar os recursos de bibliotecas
+
+#  Operações:
+
+#     buscar_por_indice
+#     buscar_por_valor
+#     inserir
+#     remover
+
+
+
+
 Vet = []
 
 def Add(a):
@@ -14,12 +26,7 @@ def BuscaInd(a):
 def BuscarVlr(a):
     if a in Vet:
         return Vet.index(a)
-
-
-
-
-
-
+    
 Add(10) #0
 Add(20) #1
 Add(30) #2

@@ -1,0 +1,31 @@
+Questão 1: Abstração e a Separação do "QUE" e do "COMO"
+
+O conceito de abstração é central na ciência da computação e na definição de Tipos Abstratos de Dados (TADs).
+
+    (a) De acordo com os slides, o que significa abstrair um problema ou situação?
+
+    (b) Explique por que, no contexto de desenvolvimento de software e TADs, é fundamental separar o "QUE faz" do "COMO faz".
+
+Questão 2: Alocação Estática vs. Alocação Dinâmica de Memória
+
+O Sistema Operacional pode trabalhar com a memória RAM utilizando dois métodos de alocação: estático ou dinâmico.
+
+    (a) Descreva como funciona a alocação estática e explique por que ela pode causar os problemas de subdimensionamento ou superdimensionamento.
+
+    (b) Quais são as principais características da alocação dinâmica em tempo de execução e qual é o "custo extra" de memória associado a ela?
+
+Questão 3: Dado, Tipo de Dado e Informação
+
+Nos slides, é destacada a diferença fundamental entre dados brutos e a informação processada.
+
+    (a) O que é um dado e para que servem os tipos de dados nas linguagens de programação?
+
+    (b) Qual é a diferença conceitual entre um dado e uma informação no contexto do processamento feito pelo computador?
+
+Questão 4: Estruturas Sequenciais Estáticas vs. Dinâmicas
+
+As estruturas de dados sequenciais (lineares) podem ser implementadas de forma estática ou dinâmica.
+
+    (a) Explique o que significa dizer que os elementos de uma estrutura estática (como um vetor) são alocados de forma contígua na memória.
+
+    (b) Como uma estrutura dinâmica (lista encadeada) consegue manter a ordem sequencial dos dados mesmo quando os elementos estão espalhados pela memória RAM? Explique.
